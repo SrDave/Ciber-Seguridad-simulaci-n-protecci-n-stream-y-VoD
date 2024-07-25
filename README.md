@@ -35,6 +35,22 @@ Cuando la UA recibe la descarga de un archivo, verifica si está cifrado. En cas
 El servidor de claves recibe e identifica la petición, comprueba si es una petición mediante los espacios. Separa las variables, la descifra y verifica la firma digital. Si es válida, sigue con el protocolo estándar enviando las claves a la UA. La UA recibe las claves, las envía cifradas al CDM, y finalmente, el CDM las recibe y desencripta con éxito el archivo cifrado, almacenándolo en su directorio.
 Si los archivos no están cifrados, la UA los recibe directamente del servidor principal en su directorio, marcando el fin de este proceso.
 
+## CONCLUSIONES.
+En el transcurso de la implementación del proyecto "Seguridad y Gestión de Derechos Digitales", se ha logrado abordar de manera integral los desafíos contemporáneos relacionados con la protección de contenidos digitales. Las conclusiones extraídas de esta experiencia son las siguientes:
+
+Comprensión Profunda de Sistemas DRM Actuales: Se ha consolidado un conocimiento sólido sobre los sistemas DRM más utilizados en la actualidad, como FairPlay, Widevine y PlayReady. Este entendimiento fue esencial para identificar los principios fundamentales compartidos que guiaron el diseño de nuestro propio sistema.
+
+Dominio en Criptografía y Seguridad Digital: La implementación del proyecto permitió adquirir habilidades avanzadas en criptografía simétrica y asimétrica, así como en la aplicación de firmas digitales. La elección de algoritmos robustos, como AES para cifrado simétrico y RSA para cifrado asimétrico, demostró la capacidad para tomar decisiones informadas en la protección de datos sensibles.
+
+Modularidad y Eficiencia con Segmentación de Aplicación: La segmentación de la aplicación de usuario en dos programas distintos (UA y CDM) no solo cumplió con los requisitos para la máxima calificación, sino que también demostró ser una estrategia efectiva para mejorar la modularidad y la eficiencia del sistema. Esta aproximación ofrece flexibilidad y facilita el mantenimiento futuro.
+
+Implementación de Funcionalidades Adicionales para Destacar: La incorporación de características adicionales, como marcas de agua en imágenes y firmas digitales en mensajes de solicitud de claves, refleja un compromiso con la excelencia y la búsqueda constante de mejorar la seguridad del sistema.
+
+Enfrentamiento de Desafíos Técnicos y de Seguridad: A lo largo del proyecto, se han enfrentado y superado diversos desafíos técnicos y de seguridad. La comunicación cifrada entre componentes, la gestión de claves de cifrado y la firma digital de mensajes fueron áreas críticas que requirieron atención meticulosa y soluciones efectivas.
+
+Contribución a la Seguridad Digital: El proyecto contribuye al campo de la seguridad digital al ofrecer un sistema de protección de contenidos digitales que integra principios fundamentales de sistemas DRM existentes. Esta contribución es especialmente relevante en un entorno digital en constante evolución y creciente amenaza cibernética.
+
+En resumen, el proyecto ha sido una oportunidad valiosa para aplicar conocimientos teóricos a situaciones prácticas, desarrollando habilidades técnicas y estratégicas esenciales en el campo de la seguridad digital y la gestión de derechos en entornos digitales
 
 
 
