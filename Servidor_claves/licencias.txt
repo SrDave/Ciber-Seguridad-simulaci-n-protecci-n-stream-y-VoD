@@ -1,0 +1,5 @@
+cifrado_pinkpanter.jpeg;aaaaaaaaaaaaaaaa;aaaaaaaaaaaaaaaa
+cifrado_dai_apolon.jpg;bbbbbbbbbbbbbbbb;bbbbbbbbbbbbbbbb
+cifrado_las_urracas_parlanchinas.jpg;dddddddddddddddd;dddddddddddddddd
+cifrado_detector_metales.mp4;eeeeeeeeeeeeeeee;eeeeeeeeeeeeeeee
+cifrado_TouchOSC_soundcool_.mp4;ffffffffffffffff;ffffffffffffffff
